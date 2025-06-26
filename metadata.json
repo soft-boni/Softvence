@@ -1,0 +1,6 @@
+{
+  "name": "Admin Property Dashboard",
+  "description": "A responsive admin dashboard for managing properties, bids, and system logs with interactive modals and filtering.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
