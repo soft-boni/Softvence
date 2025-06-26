@@ -264,7 +264,7 @@ const TopBar = ({
     <header className="fixed top-0 left-0 w-full bg-white shadow-md h-16 flex items-center justify-between px-4 sm:px-6 lg:px-8 z-40">
       <div className="flex items-center">
         <LogoIcon className="h-8 w-8 text-indigo-600" />
-        <span className="ml-3 text-xl font-semibold text-gray-700">Admin Dashboard</span>
+        <span className="ml-3 text-xl font-semibold text-gray-700">Az Hub Admin</span>
       </div>
       <div className="flex items-center space-x-4">
         {/* Notifications */}
